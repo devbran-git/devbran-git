@@ -1,4 +1,4 @@
-## Fala aí! Eu sou Evandro Brandão.
+## Fala aí! Eu sou Evandro Brandão
 
   🧑🏻‍💻. **Atualmente trabalho:** front-end com React Native & TypesScript
 
