@@ -1,6 +1,6 @@
 ## Fala aí! Eu sou Evandro Brandão
 
-  🧑🏻‍💻. **Atualmente trabalho como** desenvolvedor front-end com React Native & TypesScript
+  🧑🏻‍💻. **Atualmente trabalho como** desenvolvedor mobile com React Native & TypesScript
 
   📘. **Estudando:** React Native, ReactJS, TypeScript e UX|UI Design
 
