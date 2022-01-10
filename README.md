@@ -29,7 +29,7 @@
   
   ### Como anda o ritmo por aqui:
   
-  ![Snake animation](https://github.com/devbran-git/devbran/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/devbran-git/devbran-git/blob/output/github-contribution-grid-snake.svg)
 
   <br>
   
