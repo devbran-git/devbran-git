@@ -1,6 +1,6 @@
-## E aí! Eu sou Evandro
+## E aí! Eu sou o Evandro
 
-  🧑🏻‍💻 **Atualmente trabalho como** desenvolvedor mobile com React Native com TypesScript
+  🧑🏻‍💻 **Atualmente trabalho como** desenvolvedor mobile com React Native & TypesScript
 
   📘 **Estudando:** React Native, ReactJS, TypeScript e UX|UI Design
 
