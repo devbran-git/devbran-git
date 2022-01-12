@@ -1,4 +1,4 @@
-## Fala aí! Eu sou Evandro Brandão
+## E aí! Eu sou Evandro
 
   🧑🏻‍💻 **Atualmente trabalho como** desenvolvedor mobile com React Native com TypesScript
 
