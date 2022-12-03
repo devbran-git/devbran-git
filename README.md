@@ -2,7 +2,7 @@
 
   🧑🏻‍💻. **Atualmente trabalho como** desenvolvedor mobile com React Native & TypesScript
 
-  📘. **Estudando:** React Native, ReactJS, TypeScript e UX|UI Design
+  📘. **Estudando:** React Native, ReactJS, TypeScript, Node.js e UX|UI Design
 
   🏹. **Interesses:** desenvolver soluções mobile e web orientadas à projeção de uma melhor experiência do usuário
   
