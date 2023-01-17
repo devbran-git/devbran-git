@@ -1,4 +1,4 @@
-## E aí! Eu sou o Evandro
+## Eu sou o Evandro
 
   🧑🏻‍💻. **Atualmente trabalho como** desenvolvedor web e mobile com ReactJS React Native & TypesScript
 
