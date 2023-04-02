@@ -1,14 +1,6 @@
-## Eu sou o Evandro
+## Desenvolvedor Front-end Web e Mobile
 
-  🧑🏻‍💻. **Atualmente trabalho como** desenvolvedor web e mobile com ReactJS React Native & TypesScript
-
-  📘. **Estudando:** React Native, ReactJS, TypeScript, Node.js e UX|UI Design
-
-  🏹. **Interesses:** desenvolver soluções mobile e web orientadas à projeção de uma melhor experiência do usuário
-  
-<br>  
-
-### Minhas principais techs:
+ ### Minhas principais techs:
 <div style="display: inline_block"><br>
   <img align="center" alt="devbran-Js" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="devbran-React" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
