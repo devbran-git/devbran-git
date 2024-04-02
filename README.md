@@ -21,13 +21,7 @@
 </div>
 </div>
 <br><br>
-  
-  ### Como anda o ritmo por aqui:
-  
-  ![Snake animation](https://github.com/devbran-git/devbran-git/blob/output/github-contribution-grid-snake.svg)
-
-  <br>
-  
+   
    ### Mídias sociais:
    
   <div>
