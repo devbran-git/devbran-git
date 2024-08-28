@@ -1,4 +1,4 @@
-## Desenvolvedor Front-end Web e Mobile
+## Desenvolvedor full-stack Web e Mobile
 
  ### Minhas principais techs:
 <div style="display: inline_block"><br>
